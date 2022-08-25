@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FabioSaito
 - 👀 I’m interested in technology, science and many other fields of knowledge!
-- 🌱 I’m currently learning data science and python!
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working with back-end development with Ruby On Rails!
 - 📫 How to reach me send a message or an e-mail!
 
 <!---
